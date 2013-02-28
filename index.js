@@ -1,1 +1,1 @@
-exports = require('./lib/machine');
+exports.Machine = require('./lib/machine').Machine;
