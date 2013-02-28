@@ -1,13 +1,14 @@
 {
-    "name" : "opendyno-node",
+    "name" : "state-machine",
     "version" : "0.0.1",
-    "description" : "Node module",
+    "description" : "Simple evented state machine",
     "keywords": [
-        "lxc",
-        "vm",
-        "simple",
         "node",
-        "opendyno"
+        "state",
+        "machine",
+        "simple",
+        "evented",
+        "event"
     ],
     "main" : "./index.js",
     "directories" : {
@@ -31,6 +32,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@friendco.de:opendyno/node.git"
+        "url": "git@friendco.de:opendyno/node-state-machine.git"
     }
 }
