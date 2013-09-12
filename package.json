@@ -1,6 +1,6 @@
 {
-    "name" : "state-machine",
-    "version" : "0.0.2",
+    "name" : "emachine",
+    "version" : "0.0.3",
     "description" : "Simple evented state machine",
     "keywords": [
         "node",
@@ -32,6 +32,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@friendco.de:opendyno/node-state-machine.git"
+        "url": "git@github.com:FriendCode/emachine.git"
     }
 }
